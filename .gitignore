@@ -1,0 +1,5 @@
+day12_env/
+logs/
+models/
+*.keras
+__pycache__/
